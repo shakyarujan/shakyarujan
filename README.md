@@ -1,6 +1,8 @@
-### Hi, I'm Rujan Shakya 👋👋
+## Hi, I'm Rujan Shakya 👋👋
 
-## I'm a Software Developer
+### Software Engineer | Developer
+
+<br/>
 
 ### Glad to see you here! 🤩 &nbsp;
 
@@ -12,8 +14,6 @@ I am a passionate self-taught programmer from Nepal.
 - 💬 Ask me about anything [here](https://github.com/shakyarujan/shakyarujan/issues)
 - 📫 How to reach me: <a href="mailto:rujanshakya76@gmail.com">email</a><br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-</br>
 
 ### Connect with me:
 
@@ -62,8 +62,9 @@ I am a passionate self-taught programmer from Nepal.
 
 ---
 
-### Github Stats:
+### Github Stats :
 
 <img align="left" alt="RUJAN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shakyarujan&show_icons=true&hide_border=true" />
 
+<br/>
 _PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
