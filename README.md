@@ -4,14 +4,14 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Nepal.
+I am a passionate self-taught programmer from <b>Nepal</b>.
 
 - 🔭 I’m currently working on my project [To Mail](https://github.com/shakyarujan/ToMail)
 - 🌱 I’m currently learning React JS and Deep learning in PyTorch
 - 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/shakyarujan/editor.md)
 - 💬 Ask me about anything [here](https://github.com/shakyarujan/shakyarujan/issues)
 - 📫 How to reach me: <a href="mailto:rujanshakya76@gmail.com">email</a><br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Learn about AI and implement on real projects.
 
 ### Connect with me:
 
