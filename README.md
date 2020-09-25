@@ -6,7 +6,7 @@
 
 I am a passionate self-taught programmer from <b>Nepal</b>.
 
-- 🔭 I’m currently working on my project [To Mail](https://github.com/shakyarujan/ToMail)
+- 🔭 I’m currently working on my project <a href="mailto:rujanshakya76@gmail.com">To Mail</a><br>
 - 🌱 I’m currently learning React JS and Deep learning in PyTorch
 - 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/shakyarujan/editor.md)
 - 💬 Ask me about anything [here](https://github.com/shakyarujan/shakyarujan/issues)
@@ -15,19 +15,17 @@ I am a passionate self-taught programmer from <b>Nepal</b>.
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/rujan-shakya/" target="_blank">
-  <img align="left" alt="Rujan's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/shakyarujan" target="_blank">
+[<img align="left" alt="Rujan's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rujan-shakya/)
+<a href="https://github.com/shakyarujan">
   <img align="left" alt="Rujan's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/rujanshakya3" target="_blank">
+<a href="https://twitter.com/rujanshakya3">
   <img align="left" alt="Rujan's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://instagram.com/rujan_shakya/" target="_blank">
+<a href="https://instagram.com/rujan_shakya/">
   <img align="left" alt="Rujan's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rjSakya/" target="_blank">
+<a href="https://www.facebook.com/rjSakya/">
   <img align="left" alt="Rujan's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
