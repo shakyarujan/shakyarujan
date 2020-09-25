@@ -2,8 +2,6 @@
 
 ### Software Engineer | Developer
 
-<br/>
-
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a passionate self-taught programmer from Nepal.
