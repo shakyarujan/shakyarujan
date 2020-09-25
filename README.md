@@ -15,19 +15,19 @@ I am a passionate self-taught programmer from <b>Nepal</b>.
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/rujan-shakya/">
+<a href="https://www.linkedin.com/in/rujan-shakya/" target="_blank">
   <img align="left" alt="Rujan's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/shakyarujan">
+<a href="https://github.com/shakyarujan" target="_blank">
   <img align="left" alt="Rujan's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/shakyarujan3">
+<a href="https://twitter.com/rujanshakya3" target="_blank">
   <img align="left" alt="Rujan's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://instagram.com/rujan_shakya/">
+<a href="https://instagram.com/rujan_shakya/" target="_blank">
   <img align="left" alt="Rujan's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rjSakya/">
+<a href="https://www.facebook.com/rjSakya/" target="_blank">
   <img align="left" alt="Rujan's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
