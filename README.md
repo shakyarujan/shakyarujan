@@ -8,14 +8,14 @@ I am a passionate self-taught programmer from <b>Nepal</b>.
 
 - 🔭 I’m currently working on my project <a href="mailto:rujanshakya76@gmail.com">To Mail</a><br>
 - 🌱 I’m currently learning React JS and Deep learning in PyTorch
-- 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/shakyarujan/editor.md)
 - 💬 Ask me about anything [here](https://github.com/shakyarujan/shakyarujan/issues)
 - 📫 How to reach me: <a href="mailto:rujanshakya76@gmail.com">email</a><br>
 - 🥅 2020 Goals: Learn about AI and implement on real projects.
 
 ### Connect with me:
-
-[<img align="left" alt="Rujan's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rujan-shakya/)
+<a href="https://www.linkedin.com/in/rujan-shakya/">
+  <img align="left" alt="Rujan's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://github.com/shakyarujan">
   <img align="left" alt="Rujan's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
