@@ -60,7 +60,7 @@ I am a passionate self-taught programmer from <b>Nepal</b>.
 
 ### Github Stats :
 
-<img align="left" alt="RUJAN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shakyarujan&show_icons=true&hide_border=true" />
+<img align="left" alt="RUJAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shakyarujan&show_icons=true&theme=radical" />
 
 <br/>
 _PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
