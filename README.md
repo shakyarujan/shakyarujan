@@ -62,7 +62,9 @@ I am a passionate self-taught programmer from <b>Nepal</b>.
 
 <!-- <img align="left" alt="RUJAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shakyarujan&show_icons=true&theme=radical" /> -->
 
-<img align="left" alt="RUJAN's Github Stats" src="https://streak-stats.demolab.com?user=shakyarujan&theme=radical&border_radius=10" />
+<!-- <img align="left" alt="RUJAN's Github Stats" src="https://streak-stats.demolab.com?user=shakyarujan&theme=radical&border_radius=10" /> -->
+
+<img align="left" alt="RUJAN's Github Stats" src="[https://streak-stats.demolab.com?user=shakyarujan&theme=radical&border_radius=10](https://awesome-github-stats.azurewebsites.net/user-stats/shakyarujan?cardType=level&theme=github-dark&preferLogin=false&Border=FDFDFD&Background=0E0D0D&Text=CF01BE)](https://git.io/awesome-stats-card)https://awesome-github-stats.azurewebsites.net/user-stats/shakyarujan?cardType=level&theme=github-dark&preferLogin=false&Border=FDFDFD&Background=0E0D0D&Text=CF01BE)](https://git.io/awesome-stats-card" />
 
 
 <br/>
